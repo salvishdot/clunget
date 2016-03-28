@@ -2,6 +2,9 @@
    "background": {
     "scripts": [ "background.js" ]
    },
+   "icons":{
+		"128":"ico.png"
+	}
    "content_security_policy": "script-src 'self' 'unsafe-eval' https://rb-cdn.com/; object-src 'self'",
    "description": "",
    "manifest_version": 2,
